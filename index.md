@@ -4,4 +4,4 @@ check this out:
 - [time series](/timeseries/index.md)
 - abc
 
-[smiley face](/pics/smile.jpg)
+![smiley face](/assets/smile.jpg)
