@@ -8,4 +8,4 @@ stuff:
 - [Time Series Decomposition (html)](TimeSeries.html)
 - [repository](https://github.com/moses-alexander/sat-solver-rec-backtracking)
 
-[link to main page](/index.md)
+[link to main page](/../index.md)
